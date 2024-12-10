@@ -16,3 +16,6 @@ How to Use:
 Clone the repository to your local environment.
 Open the HTML file in a web browser.
 Explore the styled elements, hover effects, and layout structure.
+
+![Screenshot 2024-12-10 230809](https://github.com/user-attachments/assets/4a6b8aa7-b3f2-41cb-ab94-21f8d9417c27)
+![Screenshot 2024-12-10 230913](https://github.com/user-attachments/assets/0c0594fa-00cd-42d1-b8aa-49e088bb2d87)
